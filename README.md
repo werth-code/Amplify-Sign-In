@@ -1,3 +1,3 @@
-# Getting Started with Create React App
+# Amplify user accounts with React
 
 Quick react app using Amplify for user account access.
